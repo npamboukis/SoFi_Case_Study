@@ -46,6 +46,16 @@ Robo Advisory
         * Investing: No minimum start-up balance, no commision fees, automated investing
     * Insurance
         * Provides term life insurance, auto insurance, and homeowner's insurance.
+* Other FinTech [Competitors](https://www.nerdwallet.com/best/investing/robo-advisors):
+    * Wealthfront
+    * Betterment
+    * Ally Invest Robo
+    * E-Trade
+    * Axos Invest
+
+---
+
+## 
 
 
 
