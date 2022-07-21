@@ -12,6 +12,9 @@ Robo Advisory
     * Ian Brady
     * Dan Macklin
 * Founder's met during their time at Stanford Graduate School of Business. The creation of SoFi was to provide affordable options for students who took on debt to fund their education.
-* According to [crunchbase](https://www.crunchbase.com/organization/social-finance/company_financials)
+* According to [crunchbase](https://www.crunchbase.com/organization/social-finance/company_financials), SoFi has raised north of $3 billion.
+    * Funded by 41 investors as of July 21, 2022
+        * Asas Capital and Bracket Capital being the most recent investors.
+
 
 
