@@ -4,7 +4,7 @@ Robo Advisory
 ---
 
 ## Overview and Origin
-* SoFi
+* SoFi - Short for Social Finance
 * Incoporated August 2011
 * Founders:
     * Mike Cagney
@@ -33,6 +33,16 @@ Robo Advisory
 ---
 
 ## Landscape
+* FinTech Domain: Robo Advisory
+* Information provided by [seeking-alpha](https://seekingalpha.com/article/4498192-how-sofi-makes-money), the FinTech's business and services can be divded into four categories:
+    * Lending
+        * Offers Student Loan Refinancing, Private Student Loans, Personal Loans, Mortgages, and Auto Loan Refinancing. A benefit of SoFi loans include no late charge fees, insuficient fund fees, and orgination fees. Also provides a six month grace period on all loans.
+    * Technology
+        * Partnership and Aquisitions: 
+        * [Apex-Clearing](https://www.apexclearing.com/company/) - 'To enable frictionless investment access for anyone'
+        * [Galileo](https://www.galileo-ft.com/about-us/) - '...to create sophistacted card-based and digital financial solutions.'
+    * Financial Services
+    * Insurance
 
 
 
