@@ -23,7 +23,7 @@ Robo Advisory
     * In this [Forbes](https://www.forbes.com/advisor/banking/sofi-bank-review/) article, it lists a number of benefits of using SoFi Bank compared to 'real banks'.
     * By offering a checking and savings account - all in one - with an APY up to 1.25%, those looking for an account would be hardpressed not to look into SoFi.
     * In general, SoFi offers numerous lending and wealth management services.
-        * Including but not limited to: Investing, Personal Loans, Student Loan Refinancing, Credit Card, Credit Score & Budgeting
+        * Includes: Investing, Personal Loans, Student Loan Refinancing, Credit Card, Credit Score & Budgeting
 * 
 
 
