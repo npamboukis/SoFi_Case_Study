@@ -74,5 +74,6 @@ Robo Advisory
 
 ## Recommendations
 * As for recommending additional services, I believe offering trading services on the Foreign Exchange Market - Forex.
-* Not only would this new service increase membership acquistion, but would also make SoFi one of the first leading FinTech companies to implement this service.
-* 
+* Not only would this new service increase membership acquistion and increase portfolio diversification, but would also make SoFi one of the first leading FinTech companies to implement this service.
+* Utilities and tools used would forecast the Forex market for potential trades that can either be an automated or manual entry.
+* Members who are not familiar with investing can learn efficiently through robo advisory and automated forecasting.
