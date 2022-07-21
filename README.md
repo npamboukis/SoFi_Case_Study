@@ -42,7 +42,10 @@ Robo Advisory
         * [Apex-Clearing](https://www.apexclearing.com/company/) - 'To enable frictionless investment access for anyone'
         * [Galileo](https://www.galileo-ft.com/about-us/) - '...to create sophistacted card-based and digital financial solutions.'
     * Financial Services
+        * SoFi Banking: No minimum balance required, no monthly fees, earn interest on deposit with up to 1.25% APY
+        * Investing: No minimum start-up balance, no commision fees, automated investing
     * Insurance
+        * Provides term life insurance, auto insurance, and homeowner's insurance.
 
 
 
