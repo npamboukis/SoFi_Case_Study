@@ -4,4 +4,4 @@ Robo Advisory
 ---
 
 ## Overview and Origin
-* SoFi
+**SoFi**
