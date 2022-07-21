@@ -16,5 +16,10 @@ Robo Advisory
     * Funded by 41 investors as of July 21, 2022
         * Asas Capital and Bracket Capital being the most recent investors.
 
+---
+
+## Business Activities
+
+
 
 
