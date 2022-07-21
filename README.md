@@ -7,4 +7,4 @@ Robo Advisory
 * SoFi
 * Incoporated August 2011
 * Founders:
-* * Mike Cagney
+    * Mike Cagney
