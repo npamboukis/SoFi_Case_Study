@@ -8,3 +8,7 @@ Robo Advisory
 * Incoporated August 2011
 * Founders:
     * Mike Cagney
+    * James Finnigan
+    * Ian Brady
+    * Dan Macklin
+* 
