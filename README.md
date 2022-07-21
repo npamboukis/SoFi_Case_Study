@@ -4,4 +4,5 @@ Robo Advisory
 ---
 
 ## Overview and Origin
-**SoFi**
+* SoFi
+* Incoporated August 2011
