@@ -33,7 +33,7 @@ Robo Advisory
 ---
 
 ## Landscape
-* FinTech Domain: Robo Advisory
+* FinTech Domain: Robo-Advising
 * Information provided by [seeking-alpha](https://seekingalpha.com/article/4498192-how-sofi-makes-money), the FinTech's business and services can be divded into four categories:
     * Lending
         * Offers Student Loan Refinancing, Private Student Loans, Personal Loans, Mortgages, and Auto Loan Refinancing. A benefit of SoFi loans include no late charge fees, insuficient fund fees, and orgination fees. Also provides a six month grace period on all loans.
@@ -55,7 +55,12 @@ Robo Advisory
 
 ---
 
-## 
+## Results
+* Business Impact:
+    * ~4 million SoFi members
+    * $34+ Billion in debt paid off
+    * $35+ Million earned in rewards
+    * $73+ Billion in funded loans
 
 
 
