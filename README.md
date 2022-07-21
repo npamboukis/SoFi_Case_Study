@@ -70,6 +70,9 @@ Robo Advisory
         * Account types and cash management options, level of tax strategies included, frequency of automatic rebalancing and all associated costs.
 * Of the other two five-star rated [competitors](https://www.nerdwallet.com/best/investing/robo-advisors), SoFi is the only company with a $0 account minimum and 0% management fees.
 
+---
 
-
-
+## Recommendations
+* As for recommending additional services, I believe offering trading services on the Foreign Exchange Market - Forex.
+* Not only would this new service increase membership acquistion, but would also make SoFi one of the first leading FinTech companies to implement this service.
+* 
