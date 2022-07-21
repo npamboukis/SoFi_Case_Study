@@ -28,5 +28,11 @@ Robo Advisory
 * With nearly 4 million members, the FinTech company has a wide range of individuals looking to save, invest, and accumulate interest through savings, all while offering exceptional services to help members become more comfortable with finance literacies.
 * There are many applications and utilities that SoFi utilizies to create their mobile app and services. In their [engineering-blog](https://sofietyblog.sofi.com/behind-the-app-part-2-the-conductor), there is a heavy emphasis on Engineering, Product, and Design (EPD) teams dedicated to making the applications easily accessible and easy-to-use.
     * "Combining both quantitative and qualitative information (i.e. what our members are doing in our app, what are they giving as feedback already, and what are some open needs they have) help us better understand the member and where we can focus on." - Sasank Reddy, Director of Project Management
+    * Applications and utilities used: [stackshare](https://stackshare.io/sofi/sofi#team)
+
+---
+
+## Landscape
+
 
 
