@@ -25,6 +25,7 @@ Robo Advisory
     * In general, SoFi offers numerous lending and wealth management services:
         * Includes: Investing, Personal Loans, Student Loan Refinancing, Credit Card, Credit Score & Budgeting
     * In the [Forbes](https://www.forbes.com/advisor/banking/sofi-bank-review/) article, it lists a number of benefits of using SoFi Bank compared to 'real banks'.
-* With nearly 4 million members, the FinTech company has a wide range of individuals looking to save, invest, and accumulate interest through savings, all while offering exceptional services to help members become more comfortable with finance literacies. 
+* With nearly 4 million members, the FinTech company has a wide range of individuals looking to save, invest, and accumulate interest through savings, all while offering exceptional services to help members become more comfortable with finance literacies.
+* There are many applications and utilities that SoFi utilizies to create their mobile app and services. In their [engineering-blog](https://sofietyblog.sofi.com/behind-the-app-part-2-the-conductor), there is a heavy emphasis on Engineering, Product, and Design (EPD) teams dedicated to making the applications easily accessible and easy-to-use.
 
 
