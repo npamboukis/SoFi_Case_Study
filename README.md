@@ -46,7 +46,7 @@ Robo Advisory
         * Investing: No minimum start-up balance, no commision fees, automated investing
     * Insurance
         * Provides term life insurance, auto insurance, and homeowner's insurance.
-* Other FinTech [Competitors](https://www.nerdwallet.com/best/investing/robo-advisors):
+* Other FinTech Competitors:
     * Wealthfront
     * Betterment
     * Ally Invest Robo
@@ -56,11 +56,20 @@ Robo Advisory
 ---
 
 ## Results
-* Business Impact:
+* [SoFi](https://www.sofi.com) - Business Impact:
     * ~4 million SoFi members
     * $34+ Billion in debt paid off
     * $35+ Million earned in rewards
     * $73+ Billion in funded loans
+* [NerdWallet](https://www.nerdwallet.com/l/ratings-methodology-for-robo-advisors) robo-advisory methodology for rating - top three weighted criteria:
+    * Account Fees ~36%
+        * Includes: management fees, expense rations, and other other fees
+    * Portfolio Mix ~15%
+        * Level of diversification, specialty portfolios avialable, and SRI portfolio options
+    * Accounts Supported and Automated Services ~12%
+        * Account types and cash management options, level of tax strategies included, frequency of automatic rebalancing and all associated costs.
+* Of the other two five-star rated [competitors](https://www.nerdwallet.com/best/investing/robo-advisors), SoFi is the only company with a $0 account minimum and 0% management fees.
+
 
 
 
