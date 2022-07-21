@@ -11,4 +11,5 @@ Robo Advisory
     * James Finnigan
     * Ian Brady
     * Dan Macklin
-* 
+* Founder's met during their time at Stanford Graduate School of Business. The creation of SoFi was to provide affordable options for students who took on debt to fund their education.
+
