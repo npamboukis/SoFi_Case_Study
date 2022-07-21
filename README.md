@@ -20,10 +20,11 @@ Robo Advisory
 
 ## Business Activities
 * SoFi offers many financial benefits that traditional banks can't - Huntington, PNC, Chase, KeyBank.
-    * In this [Forbes](https://www.forbes.com/advisor/banking/sofi-bank-review/) article, it lists a number of benefits of using SoFi Bank compared to 'real banks'.
-    * By offering a checking and savings account - all in one - with an APY up to 1.25%, those looking for an account would be hardpressed not to look into SoFi.
-    * In general, SoFi offers numerous lending and wealth management services.
+    * In their own words, "A one-stop shop for your finances". Members have access to trading, savings, and refinancing options that are easily accessible through mobile apps.
+        Here's a quick [YouTube](https://www.youtube.com/watch?v=T6nDrDecra4&t=25s) summarizing the services when beconming a member.
+    * In general, SoFi offers numerous lending and wealth management services:
         * Includes: Investing, Personal Loans, Student Loan Refinancing, Credit Card, Credit Score & Budgeting
+    * In the [Forbes](https://www.forbes.com/advisor/banking/sofi-bank-review/) article, it lists a number of benefits of using SoFi Bank compared to 'real banks'.
 * 
 
 
